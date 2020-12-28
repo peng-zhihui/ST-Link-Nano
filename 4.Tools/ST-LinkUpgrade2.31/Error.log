@@ -1,0 +1,22 @@
+******************* GDI DUMP => Date : Mon Dec 28 23:54:24 2020
+
+No ST-Link device detected.
+Please connect it and then retry.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Tue Dec 29 00:22:56 2020
+
+Error after GoToUsbLoader command.
+Ensure the hardware is recent enough for the software.
+Try to restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Tue Dec 29 00:23:00 2020
+
+Communication error with ST-Link.
+Try to start it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Tue Dec 29 00:23:35 2020
+
+Error after GoToUsbLoader command.
+Ensure the hardware is recent enough for the software.
+Try to restart it.
+**** End of GDI DUMP ****
