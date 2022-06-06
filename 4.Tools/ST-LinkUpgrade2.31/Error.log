@@ -20,3 +20,14 @@ Error after GoToUsbLoader command.
 Ensure the hardware is recent enough for the software.
 Try to restart it.
 **** End of GDI DUMP ****
+******************* GDI DUMP => Date : Fri Jun 03 02:50:23 2022
+
+Error after GoToUsbLoader command.
+Ensure the hardware is recent enough for the software.
+Try to restart it.
+**** End of GDI DUMP ****
+******************* GDI DUMP => Date : Fri Jun 03 02:50:25 2022
+
+Communication error with ST-Link.
+Try to start it.
+**** End of GDI DUMP ****
